@@ -21,3 +21,5 @@ var updateFee = function () {
 };
 $("input[name='member']").click(updateFee);
 $("input[name='pay']").click(updateFee);
+
+//test
